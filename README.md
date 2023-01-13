@@ -28,4 +28,4 @@ The function returns a dictionary, where each inner list represents the path for
 [Andreas Anastasiou](https://github.com/aanast01)
 
 ## Contact
-If you have any questions or suggestions, please feel free to contact me at aanast01@ucy.ac.cy.
+For any questions or feedback, please contact me via email: aanast01@ucy.ac.cy
