@@ -25,7 +25,7 @@ The function returns a dictionary, where each inner list represents the path for
 - The script does not guarantee optimal paths for the agents and may not be suitable for real-world applications.
 
 ## Author
-[Andreas Anastasiou]{https://github.com/aanast01}
+[Andreas Anastasiou](https://github.com/aanast01)
 
 ## Contact
 If you have any questions or suggestions, please feel free to contact me at aanast01@ucy.ac.cy.
