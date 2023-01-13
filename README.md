@@ -23,6 +23,7 @@ The function returns a dictionary, where each inner list represents the path for
 - The script assumes that the agents can fly at a constant speed and do not encounter any obstacles.
 - The script does not take into account any external factors such as wind or weather conditions.
 - The script does not guarantee optimal paths for the agents and may not be suitable for real-world applications.
+- The script does not guarantee colission avoidance between the agents.
 
 ## Author
 [Andreas Anastasiou](https://github.com/aanast01)
