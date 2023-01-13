@@ -10,7 +10,7 @@ This script is a Python function that calculates the paths for multiple agents t
 - currentPositions: a list of each agent's current position (x,y coordinates)
 - currentAlts: a list of each agent's current altitude (z in meters)
 - xRange: the amount of divisions the algorithm will make in the x axis (default=10)
-- yRange: the amount of divisions the algorithm will make in the y axis (default=10)t must maintain from each other (default: 0)
+- yRange: the amount of divisions the algorithm will make in the y axis (default=10)
 
 The function returns a dictionary, where each inner list represents the path for ech agent to cover the area of interest.
 
