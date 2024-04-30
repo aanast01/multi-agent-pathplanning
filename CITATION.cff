@@ -1,9 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Anastasiou
-    given-names: Andreas
-    orcid: https://orcid.org/0000-0003-2899-8522
+- family-names: "Anastasiou"
+  given-names: "Andreas"
+  orcid: "https://orcid.org/0000-0003-2899-8522"
 title: "Multi-agent Path Planning"
-version: 0.1
+version: 0.1.0
 date-released: 2023-06-13
+url: "https://github.com/aanast01/multi-agent-pathplanning"
